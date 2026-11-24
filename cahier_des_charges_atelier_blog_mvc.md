@@ -1,6 +1,6 @@
 # Cahier des Charges : Création d'un Blog Complet en Architecture MVC
 
-* **Niveau :** Développeur Web — 2ème année
+* **Niveau :** Développeur Web — 2ème année et 3ème année
 * **Modalité :** Projet individuel
 * **Durée totale :** 32 heures (8 séances de 4 heures)
 * **Livrable :** Dépôt GitHub complet avec historique de commits réguliers
