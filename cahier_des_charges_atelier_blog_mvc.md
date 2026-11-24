@@ -111,7 +111,9 @@ Ce découpage est indicatif pour vous aider à gérer votre temps et jalonner vo
 
 * **Séance 1 (4h) : Conception & Initialisation**
   * Création du dépôt GitHub, du `.gitignore` et de l'arborescence.
-  * Conception du MCD/MLD et création du script `schema.sql` (Tables : `users`, `categories`, `articles`, `comments`).
+  * Conception du MCD (Modèle Conceptuel de Données) (ex : L'utilisateur peut avoir le rôle admin, auteur ou membre...).
+  * Conception du MLD (Modèle Logique de Données) (Génération des tables relationnelles).
+  * Création du script `schema.sql` (Tables : `users`, `categories`, `articles`, `comments`) (En vue de l'installation automatique).
   * Mise en place de la classe `Database` (Singleton PDO) et du `Router` de base.
 * **Séance 2 (4h) : Noyau MVC & Affichage Public (Lecture)**
   * Création des classes mères `Controller` et `Model`.
