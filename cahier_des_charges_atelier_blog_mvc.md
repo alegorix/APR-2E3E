@@ -1,4 +1,4 @@
-# 📝 Cahier des Charges : Création d'un Blog Complet en Architecture MVC
+# Cahier des Charges : Création d'un Blog Complet en Architecture MVC
 
 * **Niveau :** Développeur Web — 2ème année
 * **Modalité :** Projet individuel
@@ -42,7 +42,7 @@ L'objectif de cet atelier est de concevoir et développer de A à Z un moteur de
 
 ## 3. Périmètre Fonctionnel
 
-### 🌐 A. Front-Office (Espace Public — CSS Natif)
+### A. Front-Office (Espace Public — CSS Natif)
 1. **Page d'accueil :**
    * Affichage des derniers articles publiés (titre, image à la une, extrait, date de publication, auteur, catégorie).
    * Système de **pagination** (ex: 5 ou 6 articles par page).
@@ -57,7 +57,7 @@ L'objectif de cet atelier est de concevoir et développer de A à Z un moteur de
    * Connexion / Déconnexion.
    * Page de profil basique (modification des infos personnelles / mot de passe).
 
-### ⚙️ B. Back-Office (Espace Administration — Bootstrap ou Tailwind)
+### B. Back-Office (Espace Administration — Bootstrap ou Tailwind)
 *Accès strictement restreint aux utilisateurs ayant le rôle `ADMIN` (ou `AUTHOR`). Redirection automatique si accès non autorisé.*
 
 1. **Tableau de bord (Dashboard) :**
